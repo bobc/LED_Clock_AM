@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name RMC)(type KiCad)(uri C:\git_new\kicad_common\rmc_modules.pretty)(options "")(descr ""))
+  (lib (name w_battery_holders)(type Legacy)(uri C:\git_new\kicad_common\kicad_libs\modules\w_battery_holders.mod)(options "")(descr ""))
+  (lib (name w_pin_strip)(type Legacy)(uri C:\git_new\kicad_common\kicad_libs\modules\w_pin_strip.mod)(options "")(descr ""))
+  (lib (name w_smd_leds)(type Legacy)(uri C:\git_new\kicad_common\kicad_libs\modules\w_smd_leds.mod)(options "")(descr ""))
+)
