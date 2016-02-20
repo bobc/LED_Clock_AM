@@ -7,7 +7,8 @@
 *.kicad_pcb-bak
 
 # Netlist files (exported from Eeschema)
-*.net
+# *.net
 
 # Autorouter files (exported from Pcbnew)
-.dsn
+*.dsn
+*.ses
