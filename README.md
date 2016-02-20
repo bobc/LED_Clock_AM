@@ -3,7 +3,7 @@ An LED clock with Arduino Mini/Micro
 
 ![LED_Clock_AM](https://github.com/bobc/LED_Clock_AM/blob/master/doc/led_clock_back.png "LED_Clock_AM")
 
-Replica of "Tix" style LED clock with accurate Maxim Real Time Clock chip (DS3231). Uses an Arduino Micro or Mini (or compatible).
+Replica of "Tix(tm)" style LED clock with accurate Maxim Real Time Clock chip (DS3231). Uses an Arduino Micro or Mini (or compatible).
 
 ##Copyright
 
@@ -13,8 +13,13 @@ Copyright (c) 2016 Bob Cousins
 
 This documentation describes Open Hardware and is licensed under the
 CERN OHL v. 1.1.  You may redistribute and modify this documentation
-under the terms of the CERN OHL v.1.1.  You can find a copy of the
-CERN OHL v.1.1 in the file LICENSE.
+under the terms of the CERN OHL v.1.1. (http://ohwr.org/cernohl). This
+documentation is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY,
+INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A
+PARTICULAR PURPOSE. Please see the CERN OHL v.1.1 for applicable
+conditions
+
+You can find a copy of the CERN OHL v.1.1 in the file "LICENSE". Please also read "LICENSE.HOWTO".
 
 ##External dependencies
 
