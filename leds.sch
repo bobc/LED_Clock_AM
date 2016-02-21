@@ -28,9 +28,7 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
-LIBS:w_opto
 LIBS:RMC
-LIBS:w_microcontrollers
 LIBS:i2sd_v3
 LIBS:opendous
 LIBS:led_clock-cache

@@ -1,4 +1,4 @@
-update=20/02/2016 01:50:54
+update=20/02/2016 20:40:35
 version=1
 last_client=kicad
 [cvpcb]
@@ -49,9 +49,19 @@ LibName17=RMC
 LibName18=w_pin_strip
 LibName19=w_smd_leds
 LibName20=w_battery_holders
+[schematic_editor]
+version=1
+PageLayoutDescrFile=C:/ProgramData/Kicad/PageLayout/standard.kicad_wks
+PlotDirectoryName=doc/
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
 [eeschema]
 version=1
-LibDir=../../kicad_common/rmc_library;../../kicad_common/kicad_libs/library
+LibDir=../../kicad_common/rmc_library
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -82,18 +92,6 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-LibName30=w_opto
-LibName31=RMC
-LibName32=w_microcontrollers
-LibName33=i2sd_v3
-LibName34=opendous
-[schematic_editor]
-version=1
-PageLayoutDescrFile=C:/ProgramData/Kicad/PageLayout/standard.kicad_wks
-PlotDirectoryName=doc/
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=60
+LibName30=RMC
+LibName31=i2sd_v3
+LibName32=opendous

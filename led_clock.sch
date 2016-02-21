@@ -28,9 +28,7 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
-LIBS:w_opto
 LIBS:RMC
-LIBS:w_microcontrollers
 LIBS:i2sd_v3
 LIBS:opendous
 LIBS:led_clock-cache
@@ -426,15 +424,15 @@ ROW2
 Text GLabel 9950 2350 0    50   Input ~ 0
 ROW3
 $Comp
-L BATTERY BT1
+L Battery BT1
 U 1 1 53EFE883
 P 10950 5800
-F 0 "BT1" H 10950 6000 50  0000 C CNN
-F 1 "BATTERY" H 10950 5610 50  0000 C CNN
+F 0 "BT1" H 11100 5950 50  0000 C CNN
+F 1 "BATTERY" H 11150 5700 50  0000 C CNN
 F 2 "w_battery_holders:keystone_106" H 10950 5800 60  0001 C CNN
 F 3 "~" H 10950 5800 60  0000 C CNN
 	1    10950 5800
-	0    1    1    0   
+	1    0    0    -1  
 $EndComp
 Text Label 8050 6150 0    50   ~ 0
 SCL
@@ -880,7 +878,7 @@ Wire Wire Line
 Wire Wire Line
 	9600 6800 9600 6900
 Wire Wire Line
-	9600 6900 10450 6900
+	10450 6900 9600 6900
 Wire Wire Line
 	9700 6800 9700 7000
 Connection ~ 9700 6900
@@ -935,9 +933,9 @@ Wire Wire Line
 Wire Wire Line
 	1100 1300 1250 1300
 Wire Wire Line
-	10950 6100 10950 6300
+	10950 5950 10950 6300
 Wire Wire Line
-	10950 5500 10950 5000
+	10950 5650 10950 5000
 Wire Wire Line
 	10950 5000 9150 5000
 Wire Wire Line
